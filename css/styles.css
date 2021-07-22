@@ -230,8 +230,8 @@ img {
 #ukonczenie { font-style: italic; }
 #school { font-weight: bold }
 
-
-/*div.table {
+/*table for other timelines:*/
+div.table {
 	margin-top: 50px;
 }
 
@@ -247,7 +247,7 @@ table td {
 table tr {
 	text-align: center;
 	border: 0;
-}*/
+}
 
 /*JOBS*/
 
