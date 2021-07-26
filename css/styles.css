@@ -67,11 +67,15 @@ div.project_container {
 	display: flex;
 	text-align: center;
 	flex-wrap: wrap;
+	justify-content: center;
 }
 
 section.project {
 	/*background-color: red;*/
 	margin-top: 10vh;
+	padding-right: 5vw;
+	padding-left: 5vw;
+
 }
 
 .project-tile {
@@ -79,8 +83,7 @@ section.project {
 	/*border-radius: 2%;*/
 	position: relative;
 	height: 100%;
-	/*box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;*/
-	/*box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;*/
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 img {
